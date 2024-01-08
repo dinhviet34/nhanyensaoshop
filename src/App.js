@@ -4,7 +4,7 @@ import Home from './Components/Pages/Home';
 import Banner from './Components/Pages/Banner';
 import Footer from './Components/Pages/Footer';
 function App() {
-  document.title = "KVComp_NhayennhatrangHaiduong"
+  document.title = "Nhàn yến sào"
   return (
     <div className='App'>
 
