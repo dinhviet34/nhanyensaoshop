@@ -16,7 +16,7 @@ body {
 .produces div {
   display: flex;
   flex-wrap: wrap;
-  padding: 20px calc((100% - (255px * 3)) / 2);
+  
 }
 
 .bouderprod {

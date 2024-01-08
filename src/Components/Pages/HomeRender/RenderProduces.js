@@ -257,7 +257,7 @@ const RenderProduces = () => {
                 const tachoftach = item.split('^');
 
                 return (
-                    <><div className="col-sm bouderprod" key={key1}>
+                    <><div className="col-sm-3 bouderprod" key={key1}>
                         <p>
                             <img src={tachoftach[0]} alt="producs" className='imgprod' onClick={() => showfullimage(tachoftach[0])}></img>
 
