@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/nhanyensaoshop/static/css/main.cbe63e03.css",
-    "main.js": "/nhanyensaoshop/static/js/main.443ec3b2.js",
+    "main.js": "/nhanyensaoshop/static/js/main.44db6ef3.js",
     "static/js/787.537faa16.chunk.js": "/nhanyensaoshop/static/js/787.537faa16.chunk.js",
     "static/media/logo.jpg": "/nhanyensaoshop/static/media/logo.2eea188cb2a5b3aa358e.jpg",
     "static/media/Address.txt": "/nhanyensaoshop/static/media/Address.e632c1c35ba37bdc9d4f.txt",
-    "static/media/Produces.txt": "/nhanyensaoshop/static/media/Produces.e4e91e5abc0b11747b4b.txt",
+    "static/media/Produces.txt": "/nhanyensaoshop/static/media/Produces.42fed735f4c0d7d51c41.txt",
     "index.html": "/nhanyensaoshop/index.html",
-    "static/media/Introduce.txt": "/nhanyensaoshop/static/media/Introduce.29c381992b6868cc1dfd.txt",
+    "static/media/Introduce.txt": "/nhanyensaoshop/static/media/Introduce.00caa3dedd9abd10dcad.txt",
     "static/media/Size.txt": "/nhanyensaoshop/static/media/Size.9e41856d49ccef5d5ce7.txt",
     "main.cbe63e03.css.map": "/nhanyensaoshop/static/css/main.cbe63e03.css.map",
-    "main.443ec3b2.js.map": "/nhanyensaoshop/static/js/main.443ec3b2.js.map",
+    "main.44db6ef3.js.map": "/nhanyensaoshop/static/js/main.44db6ef3.js.map",
     "787.537faa16.chunk.js.map": "/nhanyensaoshop/static/js/787.537faa16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbe63e03.css",
-    "static/js/main.443ec3b2.js"
+    "static/js/main.44db6ef3.js"
   ]
 }
