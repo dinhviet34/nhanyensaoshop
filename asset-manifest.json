@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nhanyensaoshop/static/css/main.02fdd8a2.css",
-    "main.js": "/nhanyensaoshop/static/js/main.35e69dc1.js",
+    "main.js": "/nhanyensaoshop/static/js/main.18b3cc58.js",
     "static/js/787.537faa16.chunk.js": "/nhanyensaoshop/static/js/787.537faa16.chunk.js",
     "static/media/logo.jpg": "/nhanyensaoshop/static/media/logo.2eea188cb2a5b3aa358e.jpg",
     "static/media/Address.txt": "/nhanyensaoshop/static/media/Address.e632c1c35ba37bdc9d4f.txt",
@@ -10,11 +10,11 @@
     "static/media/Introduce.txt": "/nhanyensaoshop/static/media/Introduce.29c381992b6868cc1dfd.txt",
     "static/media/Size.txt": "/nhanyensaoshop/static/media/Size.9e41856d49ccef5d5ce7.txt",
     "main.02fdd8a2.css.map": "/nhanyensaoshop/static/css/main.02fdd8a2.css.map",
-    "main.35e69dc1.js.map": "/nhanyensaoshop/static/js/main.35e69dc1.js.map",
+    "main.18b3cc58.js.map": "/nhanyensaoshop/static/js/main.18b3cc58.js.map",
     "787.537faa16.chunk.js.map": "/nhanyensaoshop/static/js/787.537faa16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02fdd8a2.css",
-    "static/js/main.35e69dc1.js"
+    "static/js/main.18b3cc58.js"
   ]
 }
