@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.02fdd8a2.css",
-    "main.js": "/static/js/main.b39c7488.js",
-    "static/js/787.537faa16.chunk.js": "/static/js/787.537faa16.chunk.js",
-    "static/media/logo.jpg": "/static/media/logo.2eea188cb2a5b3aa358e.jpg",
-    "static/media/Address.txt": "/static/media/Address.e632c1c35ba37bdc9d4f.txt",
-    "static/media/Produces.txt": "/static/media/Produces.e4e91e5abc0b11747b4b.txt",
-    "static/media/Introduce.txt": "/static/media/Introduce.29c381992b6868cc1dfd.txt",
-    "index.html": "/index.html",
-    "static/media/Size.txt": "/static/media/Size.9e41856d49ccef5d5ce7.txt",
-    "main.02fdd8a2.css.map": "/static/css/main.02fdd8a2.css.map",
-    "main.b39c7488.js.map": "/static/js/main.b39c7488.js.map",
-    "787.537faa16.chunk.js.map": "/static/js/787.537faa16.chunk.js.map"
+    "main.css": "/nhanyensaoshop/static/css/main.02fdd8a2.css",
+    "main.js": "/nhanyensaoshop/static/js/main.18b3cc58.js",
+    "static/js/787.537faa16.chunk.js": "/nhanyensaoshop/static/js/787.537faa16.chunk.js",
+    "static/media/logo.jpg": "/nhanyensaoshop/static/media/logo.2eea188cb2a5b3aa358e.jpg",
+    "static/media/Address.txt": "/nhanyensaoshop/static/media/Address.e632c1c35ba37bdc9d4f.txt",
+    "static/media/Produces.txt": "/nhanyensaoshop/static/media/Produces.e4e91e5abc0b11747b4b.txt",
+    "index.html": "/nhanyensaoshop/index.html",
+    "static/media/Introduce.txt": "/nhanyensaoshop/static/media/Introduce.29c381992b6868cc1dfd.txt",
+    "static/media/Size.txt": "/nhanyensaoshop/static/media/Size.9e41856d49ccef5d5ce7.txt",
+    "main.02fdd8a2.css.map": "/nhanyensaoshop/static/css/main.02fdd8a2.css.map",
+    "main.18b3cc58.js.map": "/nhanyensaoshop/static/js/main.18b3cc58.js.map",
+    "787.537faa16.chunk.js.map": "/nhanyensaoshop/static/js/787.537faa16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02fdd8a2.css",
-    "static/js/main.b39c7488.js"
+    "static/js/main.18b3cc58.js"
   ]
 }
